@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+/* BlogItem.css */
+.blog-item {
+  background-color: #f9f9f9;
+  padding: 16px;
+  margin: 16px 0;
+  border-radius: 8px;
+}
+
+.blog-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.blog-description {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #555;
+}
+
+.blog-meta {
+  margin-top: 12px;
+}
+
+.published-date {
+  font-size: 14px;
+  color: #777;
+}
